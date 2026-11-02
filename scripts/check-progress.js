@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const parser = require('@babel/parser');
 const traverse = require('@babel/traverse').default;
-
+/* Finished */
 const root = path.resolve(__dirname, '..');
 const reportOnly = process.argv.includes('--report-only');
 const source = fs.readFileSync(path.join(root, 'App.tsx'), 'utf8');
