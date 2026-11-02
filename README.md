@@ -1,6 +1,6 @@
 # Expo Maps Tour: City Explorer
 
-A small Expo + React Native code tour that turns an Ann Arbor city guide into an interactive map. The lessons cover a map region, data-driven markers, selection, map taps, overlays, camera controls, foreground location permission, and local search. The app keeps its data and UI local and uses explicit React state.
+A small Expo + React Native code tour that turns an Ann Arbor city guide into an interactive map. The lessons cover a map region, data-driven markers, selection, map taps, overlays, camera controls, foreground location permission, and local search. The app keeps its data and UI local and uses explicit React state.  
 
 ## Branches
 
