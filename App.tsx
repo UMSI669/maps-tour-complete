@@ -15,6 +15,8 @@ import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { PLACES, ROUTE, TOUR_BOUNDARY } from './src/data/places';
 import { getCurrentCoordinates } from './src/services/locationService';
 
+// code reviewed in-class nov 2, 2026
+
 // ======================================================
 // PART 1 — SHOW A MAP
 //
