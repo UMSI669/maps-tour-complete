@@ -118,4 +118,4 @@ npm run typecheck
 npm run verify               # lint, typecheck, progress, and all tests
 ```
 
-Unit tests mock `react-native-maps` and the location service. They make no map API requests and never read device location. Manually verify the live map and permission prompt on at least one iOS or Android device/emulator.
+the Unit tests mock `react-native-maps` and the location service. They make no map API requests and never read device location. Manually verify the live map and permission prompt on at least one iOS or Android device/emulator.
